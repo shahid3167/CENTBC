@@ -1,13 +1,15 @@
 {
-  "name": "nuig-bc",
+  "name": "nuig-bc-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "git": "^0.1.5",
-    "elliptic": "^6.5.4",
     "crypto-js": "^4.1.1",
-    "gitignore": "^0.7.0"
+    "elliptic": "^6.5.4",
+    "git": "^0.1.5",
+    "gitignore": "^0.7.0",
+    "nuig-bc": "github:shahid3167/CENTBC",
+    "savjeecoin": "github:Savjee/SavjeeCoin"
   },
   "devDependencies": {},
   "scripts": {
